@@ -1,0 +1,36 @@
+body{
+background-color: rgb(95, 4, 4);  
+ }
+ body{
+    color: yellow;
+ }
+
+header img{
+   border: 10PX;
+}
+main {
+   color: blue;
+}
+footer {
+   background-color: brown;
+   padding: 10px;
+}
+main p{
+   color: chocolate;
+}
+ main img{
+    border-radius: 15px;
+ }
+
+ nav a {
+margin: 55px;
+font-size: 20px;
+text-decoration: 40px;
+ }
+ pading{
+   empty-cells: var();
+ }
+
+ h1{
+   text-align: center; 
+ }
